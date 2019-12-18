@@ -61,14 +61,14 @@ footer-text: Copyright (c) 2019 Mamokin
 # Comments, please note, please do not add multiple different comment areas at the same time
 
 # Enter Disqus shortname to add a comment area
-disqus: #mamokin #shortname
+disqus: disqus_cMCmfuUljT #shortname
 
 # Enter Gitalk related settings to add a comment area
 gitalk:
-  clientID: 7e49f32293ab124bc17d
-  clientSecret: 754c999526776426d4751275548667defd29a3f3
-  repo: mamokin.github.io
-  owner: mamokin
+  clientID: 
+  clientSecret: 
+  repo: 
+  owner: 
 
 # Enter Google Analytics web tracking code
 google_analytics:
