@@ -67,7 +67,7 @@ disqus: #mamokin #shortname
 gitalk:
   clientID: 7e49f32293ab124bc17d
   clientSecret: 754c999526776426d4751275548667defd29a3f3
-  repo: https://github.com/mamokin/blog
+  repo: mamokin.github.io
   owner: mamokin
 
 # Enter Google Analytics web tracking code
