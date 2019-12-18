@@ -61,21 +61,21 @@ footer-text: Copyright (c) 2019 Mamokin
 # Comments, please note, please do not add multiple different comment areas at the same time
 
 # Enter Disqus shortname to add a comment area
-disqus: mamokin #shortname
+disqus: #mamokin #shortname
 
 # Enter Gitalk related settings to add a comment area
 gitalk:
-  clientID: 
-  clientSecret: 
-  repo: 
-  owner: 
+  clientID: 7e49f32293ab124bc17d
+  clientSecret: 754c999526776426d4751275548667defd29a3f3
+  repo: https://github.com/mamokin/blog
+  owner: mamokin
 
 # Enter Google Analytics web tracking code
 google_analytics:
 
 # Enter the domain name of your website (if you did not add your own domain name,
 # but you can directly omit the domain name assigned by GitHub pages)
-url: 
+url: https://blog.mamok.in
 
 # Add the secondary domain name of your blog, generally your repository name
 # If the URL of your blog is: (http://yourusername.github.io/repository-name)
@@ -120,3 +120,4 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
