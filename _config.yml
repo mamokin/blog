@@ -61,7 +61,7 @@ footer-text: Copyright (c) 2019 Mamokin
 # Comments, please note, please do not add multiple different comment areas at the same time
 
 # Enter Disqus shortname to add a comment area
-disqus: disqus_cMCmfuUljT #shortname
+disqus: blog-mamokin #shortname
 
 # Enter Gitalk related settings to add a comment area
 gitalk:
