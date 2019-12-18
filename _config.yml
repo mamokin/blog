@@ -75,7 +75,7 @@ google_analytics:
 
 # Enter the domain name of your website (if you did not add your own domain name,
 # but you can directly omit the domain name assigned by GitHub pages)
-url: #https://blog.mamok.in
+url: blog.mamok.in
 
 # Add the secondary domain name of your blog, generally your repository name
 # If the URL of your blog is: (http://yourusername.github.io/repository-name)
