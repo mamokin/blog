@@ -80,7 +80,7 @@ url: blog.mamok.in
 # Add the secondary domain name of your blog, generally your repository name
 # If the URL of your blog is: (http://yourusername.github.io/repository-name)
 # Then write "/ repository-name"
-baseurl: /blog
+baseurl: #/blog
 
 
 #
